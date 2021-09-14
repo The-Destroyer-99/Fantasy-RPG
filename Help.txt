@@ -1,0 +1,4 @@
+Right Now I Need The up, down, left, and right things in the nested dictionary set the where they are on the map (ex. a1 left = "", right = "b1", left.. ..down = "a2" )
+also if yall could make it look nice like the solved places dictionary above it that would be awesome.
+
+Thanks!
